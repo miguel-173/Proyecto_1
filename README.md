@@ -9,4 +9,5 @@ Miguel Ángel Toro Ruiz - C.c. 1214736739 - Ingeniería eléctrica
 Este repositorio tendrá las entregas del proyecto del curso inteligencia artificial para las ciencias e ingeniería.
 Este repositorio del proyecto para la competencia en Kaggle contendrá una serie de archivos y recursos que reflejan el trabajo del equipo. Esto incluye notebooks para la exploración y preprocesamiento de datos, así como una solución de modelado de aprendizaje automático. Además, se subirá un video explicativo para la entrega 2, donde proporcionaremos un avance general del progreso del proyecto y compartiendo posibles dificultades y estrategias implementadas.
 
-link del video: https://youtu.be/KgaiHqkfvIY
+link del video entrega 2: https://youtu.be/KgaiHqkfvIY
+link del video entrega final: https://youtu.be/gMA_hfELadQ
